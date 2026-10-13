@@ -9,7 +9,7 @@
   padding: 5px 10px;
   border: 1px solid rgba(139, 92, 246, 0.35);
   border-radius: 999px;
-  background: rgba(139, 92, 246, 0.10);
+  background: rgb(255 255 255);
   color: var(--text-muted, #51456f);
   font-family: Inter, system-ui, sans-serif;
   font-size: 0.72rem;
